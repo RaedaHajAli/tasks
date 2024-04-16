@@ -27,7 +27,7 @@
  ## Home Screen
 
 
- ### Home Screen
+
    <img src="https://github.com/RaedaHajAli/notes_app/assets/108256100/b5470e38-31c3-41eb-afb6-6af0215009ec" width=30% height=30%>
  <br>
  
