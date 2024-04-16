@@ -5,7 +5,9 @@
  <br>
  <img src="https://github.com/RaedaHajAli/notes_app/assets/108256100/e88c3b59-1ecd-40be-a53c-f96445903072" width=30% height=30%>
   <br>
-## Login Screen 
+## Login Screen  
+
+
 <br>
 ### Login with username and password
  <br>
